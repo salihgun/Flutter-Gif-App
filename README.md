@@ -1,6 +1,6 @@
 # fluttergifapp
 
-A new Flutter project.
+Using Tenor.com API builded this app.
 
 ## Getting Started
 
